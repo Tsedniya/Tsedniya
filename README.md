@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-👩‍💻 I'm currently working on Frontend<br>🤝I'm looking to collaborate on wed development<br>🌱I'm currently learning cybersecurity<br>
+👩‍💻 I'm currently working on Frontend<br>🤝I'm looking to collaborate on wed development<br>
 
 
 ## 🌐 Socials:
