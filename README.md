@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-👩‍💻 I'm currently working on Frontend and UI/UX <br>🤝I'm looking to collaborate on wed development<br>
+👩‍💻 I'm currently working on Frontend <br>🤝I'm looking to collaborate on wed development<br>
 Portfolio https://tsedniya.netlify.app/
 
 # 📊 GitHub Stats:
